@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Login">
+  <grid id="27dc6" binding="panel1" custom-create="true" default-binding="true" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="0">
+    <constraints>
+      <xy x="68" y="9" width="434" height="400"/>
+    </constraints>
+    <properties>
+      <background color="-13158602"/>
+      <preferredSize width="1440" height="1024"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="c77ab" class="javax.swing.JLabel" binding="lbluser" custom-create="true">
+        <constraints/>
+        <properties>
+          <autoscrolls value="true"/>
+          <font name="Inter" size="24" style="0"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="0"/>
+          <opaque value="false"/>
+          <text value="Label"/>
+          <verticalAlignment value="1"/>
+          <verticalTextPosition value="3"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+  <inspectionSuppressions>
+    <suppress inspection="I18nForm"/>
+  </inspectionSuppressions>
+</form>
